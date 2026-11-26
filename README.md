@@ -1,17 +1,75 @@
-### Hi there 👋
 
-**WildCork/WildCork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# WACO | WildCork
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWildCork&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Systems & Network Software Engineer
 
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white or black"> <img src="https://img.shields.io/badge/csharp-ffffff?style=for-the-badge&logo=csharp&logoColor=black"> <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
+> Building tools for complex systems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-@@ -13,9 +16,5 @@ Here are some ideas to get you started:
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Software engineer focused on embedded systems,
+network communication, and industrial data analysis.
 
+- Embedded Linux & Systems Programming
+- Network Protocol Analysis
+- Software Testing & Verification
+- Desktop Application Development
+- Industrial Data Visualization
 
+Currently building **REMORA DISC**.
+
+## Featured Project
+
+### REMORA DISC
+
+**Offline Network Discovery & Analysis Software**
+
+REMORA DISC is a desktop application designed
+to simplify complex network communication analysis.
+
+#### Key Features
+
+- PCAP / PCAPNG Analysis
+- Automatic Network Discovery
+- IDL-based Message Mapping
+- Communication Visualization
+- Time-Series Analysis
+- Offline Data Processing
+- Analysis Result Export
+
+#### Technology
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+## Technical Skills
+
+| Category | Technologies |
+| --- | --- |
+| Languages | C, C++, Rust, C#, Python |
+| Frontend | React, TypeScript |
+| Desktop | Qt, Avalonia, Tauri |
+| Systems | Linux, Windows, ARM64, Yocto |
+| Networking | TCP/IP, UDP, PCAP, IDL |
+| Tools | Git, CMake, Ninja, VSCode |
+
+## Engineering Interests
+
+- Network Discovery
+- Protocol Analysis
+- Test Automation
+- Software Architecture
+- Industrial Software
+
+## Development Philosophy
+
+- Performance
+- Reliability
+- Reproducibility
+- Usability
+
+---
+
+**Engineering software that makes complex systems easier to understand.**
