@@ -16,7 +16,7 @@ network communication, and industrial data analysis.
 - Desktop Application Development
 - Industrial Data Visualization
 
-Currently building **REMORA DISC**.
+Currently building **REMORA DISC**. Writing about it (in Korean) at [int-main.tistory.com](https://int-main.tistory.com/category/REMORA%20DISC).
 
 ## Featured Project
 
